@@ -15,6 +15,9 @@ Click the buttons in the same order as displayed by the game.
 Advance to the next level by correctly replicating the sequence.
 The game ends if you make a mistake, and your score will be displayed.
 
+![Simson Says game](https://github.com/user-attachments/assets/bbd61590-5baf-407e-a9e7-0a6d5de8cec5)
+
+
 Files Included:-                
 index.html: Provides the structure and layout of the game.
 style.css: Contains the styling to make the game visually appealing.
