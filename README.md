@@ -7,8 +7,11 @@ It’s an interactive memory game I built using JavaScript, HTML, and CSS during
 🎨 Dynamic color-based gameplay to challenge your memory.
 🚀 Progressively tougher levels to keep you on your toes.
 🔄 Restart anytime for a fresh start.
-🌟 Interactive feedback to enhance the user experience.
+🌟 Interactive feedback to enhance the user experience.    
 
+🔧 Technologies Used:     
+ HTML, CSS, JavaScript    
+ 
 🕹️ How to Play:    
 1️⃣ Press any key to kick things off.
 2️⃣ Watch as the colors flash in a sequence—stay sharp!
