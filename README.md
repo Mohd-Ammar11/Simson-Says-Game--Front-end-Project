@@ -19,7 +19,7 @@ It’s an interactive memory game I built using JavaScript, HTML, and CSS during
 4️⃣ Advance through levels as you master the challenge.
 ❌ Made a mistake? No worries—restart and try again!    
 
-Youtube Video -->  https://youtu.be/Tyo60qGUwLo
+Video Link -->  https://drive.google.com/file/d/1L2176CcpY5QJD9ll86cAX2tnzZsRHe3-/view?usp=sharing
     
 
 ![Simson Says game](https://github.com/user-attachments/assets/bbd61590-5baf-407e-a9e7-0a6d5de8cec5)
