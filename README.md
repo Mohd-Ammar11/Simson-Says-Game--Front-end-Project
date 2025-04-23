@@ -1,4 +1,4 @@
-**Symson Says Game**
+**Simon Says Game**
 
 🎮 What is Simon Says Game?    
 It’s an interactive memory game I built using JavaScript, HTML, and CSS during the early stages of my coding journey. This project reflects my foundation in front-end development and passion for creating fun, user-focused applications.
